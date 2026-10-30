@@ -1,0 +1,186 @@
+{
+  "settings": [
+    {
+      "key": "about",
+      "value": "Glad General Trading is a South Sudanese multipurpose company established in 2013, providing general trading, construction, general supply, and clearance and forwarding services.\n\nThe company delivers practical, reliable, and cost-effective solutions to businesses, institutions, and organizations. Our services are guided by professionalism, integrity, operational efficiency, and a commitment to meeting client requirements.\n\nBased in Kator, Tombura Road (Abayilif), Juba, South Sudan, Glad General Trading focuses on strengthening long-term business relationships while supporting commercial activities and development initiatives across the country."
+    },
+    {
+      "key": "address",
+      "value": "Kator, Tombura Road (Abayilif), Juba, South Sudan"
+    },
+    {
+      "key": "aims",
+      "value": "To grow our service capabilities, uphold ethical business standards, create employment opportunities, and contribute to South Sudan’s development."
+    },
+    {
+      "key": "company",
+      "value": "Glad General Trading"
+    },
+    {
+      "key": "email",
+      "value": "gladgeneral2013@gmail.com"
+    },
+    {
+      "key": "established",
+      "value": "2013"
+    },
+    {
+      "key": "goal",
+      "value": "To build sustainable client relationships through professional service, timely execution, and consistent quality."
+    },
+    {
+      "key": "heroText",
+      "value": "A South Sudanese multipurpose company delivering general trading, construction, general supply, and clearance & forwarding solutions since 2013."
+    },
+    {
+      "key": "mission",
+      "value": "To provide reliable trading, construction, supply, and clearance and forwarding solutions that meet client needs and create lasting value."
+    },
+    {
+      "key": "petroleum",
+      "value": "S/NO .01852"
+    },
+    {
+      "key": "phone1",
+      "value": "+211910010102"
+    },
+    {
+      "key": "phone2",
+      "value": "+211927599955"
+    },
+    {
+      "key": "registration",
+      "value": "18838"
+    },
+    {
+      "key": "tagline",
+      "value": "Your BEST service delivery"
+    },
+    {
+      "key": "vision",
+      "value": "To achieve 100% customer satisfaction by delivering quality products & services at an affordable cost."
+    }
+  ],
+  "items": [
+    {
+      "section": "founders",
+      "title": "MATHOK ANEI ",
+      "subtitle": "Co-founder",
+      "description": "As Co-Founder and Managing Director of Glad General Trading, Mathok Anei provides strategic leadership and oversees the company's overall direction, business development, and operations. With a commitment to excellence, integrity, and sustainable growth, he plays a central role in strengthening client relationships, identifying business opportunities, and guiding the company's activities across general trading, construction, general supply, and clearance and forwarding.\nMathok Anei is dedicated to building Glad General Trading into a trusted and competitive multipurpose company in South Sudan through professionalism, innovation, and quality service delivery.",
+      "image": "",
+      "position": 0
+    },
+    {
+      "section": "founders",
+      "title": "ABTAB",
+      "subtitle": "Co-founder",
+      "description": "As Co-Founder and Operations Director of Glad General Trading, Abtab plays a key role in coordinating the company's daily operations, project implementation, procurement activities, and service delivery.\n\nWith a strong focus on operational efficiency, teamwork, and customer satisfaction, he contributes to ensuring that projects are executed effectively, resources are managed responsibly, and client expectations are met.\n\nAbtab remains committed to supporting the company's long-term vision of providing reliable business solutions while contributing to economic growth and development in South Sudan.",
+      "image": "",
+      "position": 1
+    },
+    {
+      "section": "portfolio",
+      "title": "Cargo Transportation & Delivery",
+      "subtitle": "Clearance & Forwarding",
+      "description": "Coordination of cargo transportation and delivery as part of client logistics operations.",
+      "image": "",
+      "position": 0
+    },
+    {
+      "section": "services",
+      "title": "General Trading",
+      "subtitle": "Quality Products. Reliable Supply. Trusted Partnerships",
+      "description": "We provide dependable sourcing, procurement, trading, and distribution solutions tailored to the needs of businesses, institutions, and organizations across South Sudan.",
+      "image": "",
+      "position": 0
+    },
+    {
+      "section": "services",
+      "title": "Construction",
+      "subtitle": "Building with Excellence. Delivering with Integrity.",
+      "description": "Glad General Trading provides construction and project support solutions, focusing on quality workmanship, reliable materials, efficient project coordination, and client satisfaction. We are committed to delivering practical, durable, and cost-effective solutions that support infrastructure development in South Sudan.",
+      "image": "",
+      "position": 1
+    },
+    {
+      "section": "services",
+      "title": "General Supply",
+      "subtitle": "Quality Assured. Reliability Delivered.",
+      "description": "Glad General Trading offers comprehensive procurement and general supply solutions for businesses, institutions, organizations, and development projects across South Sudan. We focus on sourcing quality materials, equipment, and essential goods while ensuring competitive pricing, dependable service, and timely delivery tailored to each client's requirements.",
+      "image": "",
+      "position": 2
+    },
+    {
+      "section": "services",
+      "title": "Clearance & Forwarding",
+      "subtitle": "Simplifying Logistics. Delivering Beyond Borders",
+      "description": "Glad General Trading provides clearance and forwarding solutions designed to facilitate the smooth movement of goods across borders. Our services include customs documentation support, cargo coordination, import and export logistics, shipment tracking, and transportation arrangements. We focus on efficiency, regulatory compliance, and dependable delivery to help businesses move their goods with confidence.",
+      "image": "",
+      "position": 3
+    },
+    {
+      "section": "staff",
+      "title": "EMMANUEL MALIS",
+      "subtitle": "IT Officer",
+      "description": "Supports the company's technology infrastructure, manages computer systems and digital tools, provides technical assistance, and helps maintain secure and reliable communication and information systems.",
+      "image": "/assets/preview/49cf6d97-ad36-41ac-b1da-1869e163669f.png",
+      "position": 0
+    },
+    {
+      "section": "staff",
+      "title": "AKON AKOL",
+      "subtitle": "Logistics Coordinator",
+      "description": "Oversees logistics schedules, transportation coordination, shipment documentation, and communication between drivers, clients, and operational teams to support efficient cargo movement and delivery.",
+      "image": "/assets/preview/7d1e4993-34e7-428e-91ea-5d4f08fbf0d8.jpg",
+      "position": 1
+    },
+    {
+      "section": "staff",
+      "title": "AKOL ANEI",
+      "subtitle": "Head of Logistics",
+      "description": "Responsible for coordinating cargo movements, tracking shipments, supporting transportation arrangements, and facilitating the timely delivery of goods. They contribute to efficient logistics operations and communication throughout the supply chain.",
+      "image": "/assets/preview/97e118b3-a882-4528-bc01-01d0bd9d2ac0.png",
+      "position": 2
+    },
+    {
+      "section": "staff",
+      "title": "KUR ADIM",
+      "subtitle": "Logistics Officer",
+      "description": "Responsible for coordinating cargo movements, tracking shipments, supporting transportation arrangements, and facilitating the timely delivery of goods. They contribute to efficient logistics operations and communication throughout the supply chain.",
+      "image": "/assets/preview/5103df97-d5c3-41e3-9c73-fa45441ed50d.png",
+      "position": 3
+    },
+    {
+      "section": "staff",
+      "title": "DUANG ",
+      "subtitle": "Logistics Officer",
+      "description": "Responsible for coordinating cargo movements, tracking shipments, supporting transportation arrangements, and facilitating the timely delivery of goods. They contribute to efficient logistics operations and communication throughout the supply chain.",
+      "image": "/assets/preview/9ce180a5-3ae6-481c-b1d8-90cc780fb3bb.png",
+      "position": 4
+    },
+    {
+      "section": "staff",
+      "title": "VIOLA",
+      "subtitle": "Finance Officer",
+      "description": "Supports financial planning, budgeting, payment processing, expense monitoring, and financial recordkeeping to promote transparency, accountability, and effective financial management.",
+      "image": "",
+      "position": 5
+    },
+    {
+      "section": "staff",
+      "title": "MARTIN",
+      "subtitle": "Administration & Procurement Officer",
+      "description": "Manages administrative activities, coordinates procurement processes, maintains business documentation, supports supplier relationships, and ensures the timely sourcing of goods and services.",
+      "image": "/assets/preview/f4974451-cbcd-4a63-9c29-04f40911ee53.png",
+      "position": 6
+    },
+    {
+      "section": "staff",
+      "title": "NAWAL",
+      "subtitle": "Sales & Marketing Officer",
+      "description": "Promotes the company's services, identifies business opportunities, develops customer relationships, supports marketing campaigns, and contributes to business growth and brand visibility.",
+      "image": "",
+      "position": 7
+    }
+  ]
+}
