@@ -1,0 +1,1221 @@
+
+/* GLAD GENERAL TRADING - CORPORATE FONTS */
+
+@import url(
+  'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@400;500;600;700;800&display=swap'
+);
+
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;font:16px/1.65 system-ui,Arial,sans-serif;color:#122038;background:white}h1,h2,h3{line-height:1.17}h1{font-size:clamp(2.8rem,6vw,5rem)}h2{font-size:clamp(2rem,4vw,3.2rem);margin:.3em 0 .5em}.container{max-width:1180px;padding:0 24px;margin:auto}.nav{min-height:90px;display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap}.logo{font-size:26px;color:#111a29;font-weight:900;text-decoration:none;line-height:1}.logo span{color:#1684e8}.logo small{display:block;font-size:10px;letter-spacing:.25em;margin-top:6px}.nav nav{display:flex;gap:16px;flex-wrap:wrap}.nav a{color:inherit;text-decoration:none}.nav nav a:hover{color:#1261c3}section{padding:85px 0}.hero{background:linear-gradient(110deg,#040b18,#08376b 70%,#1265bd);color:white;padding:110px 0}.hero p{font-size:19px;max-width:650px;color:#dceafa}.eyebrow{font-size:12px;letter-spacing:.22em;text-transform:uppercase;font-weight:800;color:#46a7ff}.btn{background:#1684e8;color:white;padding:13px 22px;display:inline-block;border:0;text-decoration:none;cursor:pointer;font-weight:750;border-radius:4px}.btn:hover{background:#0b61b4}.btn.alt{background:#0a1730}.soft{background:#eff5fc}.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px}.grid.two{grid-template-columns:repeat(2,minmax(0,1fr))}.grid.four{grid-template-columns:repeat(4,minmax(0,1fr))}.card{background:white;border:1px solid #d8e5f5;border-radius:8px;overflow:hidden;padding:22px}.card h3{margin-top:4px}.card p{color:#53667c}.card img{width:100%;height:205px;object-fit:cover;border-radius:4px}.placeholder{height:205px;background:linear-gradient(135deg,#d7e9fd,#8dbdec);display:grid;place-items:center;border-radius:4px;color:#285585}.person.card{padding:14px}.person.card h3{margin:14px 4px 0}.person.card p{margin:2px 4px 10px}.contact{background:#07182e;color:white}.contact a{color:#80c3ff}.contact p{color:#d4e5f9}.footer{background:#030a15;color:#c4d6ee;padding:24px}.footer a{color:#aad6ff}.muted{color:#61728a}.register{border-left:4px solid #1684e8;padding:14px 20px;background:#ecf4ff}input,textarea,select{font:inherit;padding:10px;border:1px solid #afbdd0;border-radius:4px;width:100%}label{display:block;font-weight:700;margin:10px 0 4px}button{font:inherit}.toolbar{display:flex;gap:10px;flex-wrap:wrap;margin:16px 0}.admin-list{display:grid;gap:14px}.admin-item{border:1px solid #d2dfed;padding:18px;border-radius:6px}.admin-item .actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}.admin-item img{width:120px;height:90px;object-fit:cover}.admin-layout{max-width:1000px;margin:30px auto;padding:0 20px}.notice{background:#eef5ff;border-left:4px solid #1684e8;padding:12px}.error{color:#b52d30}.success{color:#147447}@media(max-width:850px){.grid,.grid.four{grid-template-columns:repeat(2,1fr)}}@media(max-width:580px){.grid,.grid.two,.grid.four{grid-template-columns:1fr}.hero{padding:75px 0}.nav nav{gap:9px}}  
+/* ==========================
+   MEET OUR TEAM INTRODUCTION
+========================== */
+
+.team-introduction {
+  max-width: 900px;
+  margin: 30px auto 55px;
+  text-align: center;
+}
+
+.team-introduction h3 {
+  color: #1684e8;
+  font-size: 28px;
+  margin-bottom: 25px;
+}
+
+.team-introduction p {
+  color: #52657b;
+  font-size: 16px;
+  line-height: 1.9;
+  margin-bottom: 18px;
+}
+
+/* Co-founders and Staff titles */
+.team-group-title {
+  font-size: 28px;
+  color: #071a32;
+  margin: 45px 0 25px;
+  border-left: 4px solid #1684e8;
+  padding-left: 15px;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .team-introduction {
+    padding: 0 15px;
+  }
+
+  .team-introduction h3 {
+    font-size: 23px;
+  }
+
+  .team-group-title {
+    font-size: 24px;
+  }
+}
+
+
+/* COMPANY PROFILE SECTION */
+
+.section-introduction {
+  max-width: 900px;
+  margin: 30px auto 40px;
+  text-align: center;
+}
+
+.section-introduction h3 {
+  font-size: 27px;
+  color: #1684e8;
+  margin-bottom: 20px;
+}
+
+.section-introduction p {
+  font-size: 17px;
+  line-height: 1.8;
+  color: #52657b;
+}
+
+.company-description {
+  max-width: 900px;
+  margin: 40px auto;
+}
+
+.company-description h3 {
+  font-size: 26px;
+  color: #071a32;
+  margin-bottom: 15px;
+}
+
+.company-description p {
+  font-size: 16px;
+  line-height: 1.8;
+  color: #52657b;
+}
+
+.register {
+  background: #edf5ff;
+  border-left: 4px solid #1684e8;
+  padding: 20px;
+  margin-top: 30px;
+  border-radius: 6px;
+}
+
+.register p {
+  margin: 8px 0;
+  color: #071a32;
+}
+
+
+/* =====================================
+   GLAD GENERAL TRADING - PORTFOLIO
+===================================== */
+
+.portfolio-introduction {
+  max-width: 850px;
+  margin: 30px auto 50px;
+  text-align: center;
+}
+
+.portfolio-introduction h3 {
+  color: #1684e8;
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.portfolio-introduction p {
+  color: #52657b;
+  font-size: 16px;
+  line-height: 1.8;
+  margin-bottom: 18px;
+}
+
+/* Project cards */
+.portfolio-grid {
+  gap: 25px;
+}
+
+.portfolio-card {
+  overflow: hidden;
+  transition: transform 0.3s ease,
+              box-shadow 0.3s ease;
+}
+
+.portfolio-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 25px rgba(7, 26, 50, 0.15);
+}
+
+/* Project photographs */
+.portfolio-card img {
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
+}
+
+/* Project category */
+.portfolio-category {
+  color: #1684e8;
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* Project description */
+.portfolio-description {
+  color: #52657b;
+  font-size: 15px;
+  line-height: 1.7;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .portfolio-introduction {
+    padding: 0 15px;
+  }
+
+  .portfolio-introduction h3 {
+    font-size: 23px;
+  }
+
+  .portfolio-card img {
+    height: 220px;
+  }
+}
+
+
+/* ================================
+   GLAD GENERAL TRADING FOOTER
+================================ */
+
+.site-footer {
+  background: #071a32;
+  color: #ffffff;
+  padding: 55px 20px 35px;
+  text-align: center;
+}
+
+.footer-content {
+  max-width: 1000px;
+  margin: auto;
+}
+
+.footer-company {
+  color: #ffffff;
+  font-size: 25px;
+  font-weight: 800;
+  margin-bottom: 8px;
+}
+
+.footer-slogan {
+  color: #83bdff;
+  font-size: 14px;
+}
+
+.footer-divider {
+  border: none;
+  border-top: 1px solid #344e6c;
+  margin: 25px auto;
+  max-width: 750px;
+}
+
+.copyright {
+  color: #ffffff;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.developer-credit {
+  margin-top: 18px;
+  color: #7bbcff;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.developer-title {
+  color: #a3b8d1;
+  font-size: 12px;
+  margin-top: 5px;
+}
+
+
+/* =====================================
+   GLAD - STICKY NAVIGATION BAR
+===================================== */
+
+header,
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background: #080d17;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* Navigation links */
+header nav a,
+.site-header nav a {
+  color: #ffffff;
+  transition: color 0.3s ease;
+}
+
+header nav a:hover,
+.site-header nav a:hover {
+  color: #1684e8;
+}
+
+/* Prevent section titles from hiding
+   behind the sticky navigation */
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 100px;
+}
+
+/* Mobile adjustments */
+@media (max-width: 768px) {
+  html {
+    scroll-padding-top: 130px;
+  }
+}
+
+
+/* STICKY NAVIGATION */
+
+header.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background: #080d17;
+}
+
+/* Highlight the active section */
+header nav a.active {
+  color: #42b5ff;
+  border-bottom: 2px solid #42b5ff;
+}
+
+/* Smooth section navigation */
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 100px;
+}
+
+
+/* ==========================================
+   GLAD GENERAL TRADING
+   VISIBLE STICKY NAVIGATION
+========================================== */
+
+/* Navigation background */
+header,
+header.site-header,
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background-color: #080d17;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+/* All menu links: WHITE */
+header nav a,
+.site-header nav a {
+  color: #ffffff !important;
+  font-weight: 600;
+  opacity: 1;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+/* Menu hover: BRIGHT BLUE */
+header nav a:hover,
+.site-header nav a:hover {
+  color: #38b6ff !important;
+}
+
+/* Current section: BRIGHT BLUE */
+header nav a.active,
+.site-header nav a.active,
+header nav a[aria-current="location"] {
+  color: #38b6ff !important;
+  border-bottom: 2px solid #38b6ff;
+  padding-bottom: 5px;
+}
+
+/* Company name */
+header .brand,
+header .logo,
+.site-header .brand,
+.site-header .logo {
+  color: #ffffff !important;
+}
+
+/* Navigation keyboard accessibility */
+header nav a:focus-visible {
+  outline: 2px solid #38b6ff;
+  outline-offset: 5px;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 100px;
+}
+
+@media (max-width: 768px) {
+  html {
+    scroll-padding-top: 145px;
+  }
+}
+
+
+
+/* =========================================
+   GLAD GENERAL TRADING
+   PROFESSIONAL TYPOGRAPHY & SPACING
+========================================= */
+
+:root {
+  --glad-blue: #1684e8;
+  --glad-black: #080d17;
+  --glad-text: #26364a;
+  --glad-muted: #52657b;
+  --glad-light: #f5f9ff;
+}
+
+/* General website typography */
+body {
+  font-family: 'Inter', Arial, sans-serif;
+  color: var(--glad-text);
+  font-size: 16px;
+  line-height: 1.75;
+}
+
+/* Main headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Poppins', Arial, sans-serif;
+  line-height: 1.25;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  margin-top: 0;
+}
+
+/* Hero heading */
+.hero h1 {
+  font-size: clamp(40px, 5vw, 68px);
+  line-height: 1.12;
+  font-weight: 800;
+  letter-spacing: -0.035em;
+  margin-bottom: 24px;
+}
+
+/* Section headings */
+section h2 {
+  font-size: clamp(30px, 3.5vw, 44px);
+  line-height: 1.2;
+  margin-bottom: 24px;
+}
+
+/* Subheadings */
+section h3 {
+  font-size: clamp(20px, 2vw, 27px);
+  margin-bottom: 16px;
+}
+
+/* Paragraphs */
+section p {
+  font-size: 16px;
+  line-height: 1.85;
+  margin-bottom: 20px;
+  max-width: 75ch;
+}
+
+/* Comfortable section spacing */
+section {
+  padding-top: 85px;
+  padding-bottom: 85px;
+}
+
+/* Consistent content width */
+.container {
+  width: min(100% - 40px, 1180px);
+  margin-inline: auto;
+}
+
+/* Card typography */
+.card {
+  padding: 24px;
+  border-radius: 12px;
+}
+
+.card h3 {
+  font-size: 21px;
+  line-height: 1.4;
+  margin: 12px 0;
+}
+
+.card p {
+  font-size: 14px;
+  line-height: 1.75;
+  color: var(--glad-muted);
+}
+
+/* Improve readability on mobile */
+@media (max-width: 768px) {
+  section {
+    padding-top: 55px;
+    padding-bottom: 55px;
+  }
+
+  section h2 {
+    font-size: 30px;
+  }
+
+  section p {
+    font-size: 15px;
+    line-height: 1.75;
+  }
+
+  .card {
+    padding: 18px;
+  }
+}
+
+
+
+/* GLAD GENERAL TRADING - HERO DESIGN */
+
+.hero {
+  background: linear-gradient(
+    120deg,
+    #0675da 0%,
+    #1684e8 55%,
+    #38b6ff 100%
+  );
+  color: #ffffff;
+  padding: 110px 0 100px;
+}
+
+.hero h1 {
+  max-width: 850px;
+  color: #ffffff;
+  font-size: clamp(42px, 5.5vw, 72px);
+  font-weight: 800;
+  line-height: 1.12;
+  letter-spacing: -0.035em;
+}
+
+.hero p {
+  max-width: 650px;
+  color: #f2f9ff;
+  font-size: 18px;
+  line-height: 1.8;
+}
+
+.hero .btn {
+  background: #080d17;
+  color: #ffffff;
+  border-radius: 6px;
+  font-weight: 700;
+}
+
+.hero .btn:hover {
+  background: #26364a;
+}
+
+
+/* GLAD - ABOUT US LAYOUT */
+
+#about {
+  background: #ffffff;
+}
+
+#about .container {
+  max-width: 1120px;
+}
+
+#about h2 {
+  color: #080d17;
+  max-width: 850px;
+}
+
+#about .section-introduction {
+  margin: 30px 0;
+  max-width: 800px;
+  text-align: left;
+}
+
+#about .section-introduction h3 {
+  color: #087fec;
+  font-size: 25px;
+  line-height: 1.4;
+}
+
+#about .company-description {
+  max-width: 800px;
+  margin: 30px 0;
+}
+
+#about .register {
+  background: #edf7ff;
+  border-left: 5px solid #1684e8;
+  padding: 25px;
+  margin-top: 35px;
+  border-radius: 8px;
+}
+
+#about .register p {
+  color: #1d3550;
+  font-weight: 500;
+}
+
+
+/* ==========================================
+   GLAD - PROFESSIONAL HERO SECTION
+========================================== */
+
+.hero {
+  background: linear-gradient(
+    120deg,
+    #087fec 0%,
+    #1684e8 55%,
+    #38b6ff 100%
+  );
+  color: #ffffff;
+  padding: 100px 0;
+}
+
+.hero-container {
+  display: grid;
+  grid-template-columns: 1.3fr 0.7fr;
+  gap: 65px;
+  align-items: center;
+}
+
+.hero-content {
+  max-width: 740px;
+}
+
+.hero-eyebrow {
+  display: inline-block;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 2px;
+  font-weight: 700;
+  margin-bottom: 18px;
+}
+
+.hero-title {
+  color: #ffffff;
+  font-size: clamp(40px, 5vw, 68px);
+  line-height: 1.12;
+  font-weight: 800;
+  margin-bottom: 25px;
+}
+
+.hero-description {
+  color: #f1f8ff;
+  font-size: 18px;
+  line-height: 1.8;
+  max-width: 640px;
+}
+
+.hero-actions {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+  margin-top: 30px;
+}
+
+/* Primary button */
+.hero .hero-btn-primary {
+  background: #080d17;
+  color: #ffffff;
+  padding: 15px 25px;
+  border-radius: 6px;
+}
+
+/* Secondary button */
+.hero .hero-btn-secondary {
+  background: #ffffff;
+  color: #075ea9;
+  padding: 15px 25px;
+  border-radius: 6px;
+}
+
+.hero .hero-btn-secondary:hover {
+  background: #e5f4ff;
+}
+
+/* Company highlights */
+.hero-highlights {
+  padding: 35px;
+  background: rgba(5, 35, 75, 0.34);
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  border-radius: 14px;
+}
+
+.hero-highlights h2 {
+  color: #ffffff;
+  font-size: 29px;
+  line-height: 1.3;
+}
+
+.hero-highlights p {
+  color: #eaf5ff;
+  font-size: 15px;
+  line-height: 1.8;
+}
+
+.hero-stats {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 15px;
+  margin-top: 30px;
+  padding-top: 20px;
+  border-top: 1px solid rgba(255,255,255,0.3);
+}
+
+.hero-stat strong {
+  display: block;
+  color: #ffffff;
+  font-size: 25px;
+}
+
+.hero-stat span {
+  color: #e1efff;
+  font-size: 12px;
+}
+
+/* Tablet and mobile */
+@media (max-width: 900px) {
+  .hero-container {
+    grid-template-columns: 1fr;
+    gap: 35px;
+  }
+
+  .hero {
+    padding: 75px 0;
+  }
+}
+
+@media (max-width: 600px) {
+  .hero {
+    padding: 65px 0;
+  }
+
+  .hero-title {
+    font-size: 40px;
+  }
+
+  .hero-highlights {
+    padding: 22px;
+  }
+
+  .hero-stats {
+    gap: 10px;
+  }
+
+  .hero-stat strong {
+    font-size: 21px;
+  }
+}
+
+
+/* ==========================================
+   GLAD - SERVICES SECTION
+========================================== */
+
+.services-section {
+  background: #f1f7ff;
+  padding: 90px 0;
+}
+
+.services-introduction {
+  max-width: 800px;
+  margin: 25px auto 45px;
+  text-align: center;
+}
+
+.services-introduction h3 {
+  color: #087fec;
+  font-size: 26px;
+  margin-bottom: 15px;
+}
+
+.services-introduction p {
+  color: #52657b;
+  line-height: 1.8;
+  margin-inline: auto;
+}
+
+.services-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 25px;
+}
+
+.service-card {
+  background: #ffffff;
+  border: 1px solid #d4e7fb;
+  border-top: 4px solid #1684e8;
+  border-radius: 12px;
+  padding: 32px;
+  transition: transform 0.3s ease,
+              box-shadow 0.3s ease;
+}
+
+.service-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 28px rgba(7, 26, 50, 0.12);
+}
+
+.service-card-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 22px;
+}
+
+.service-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 62px;
+  height: 62px;
+  background: #e2f3ff;
+  border-radius: 12px;
+  font-size: 30px;
+}
+
+.service-number {
+  color: #60738a;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.service-card h3 {
+  color: #071a32;
+  font-size: 25px;
+  margin-bottom: 12px;
+}
+
+.service-subtitle {
+  color: #087fec;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 1.6;
+}
+
+.service-description {
+  color: #52657b;
+  font-size: 15px;
+  line-height: 1.8;
+}
+
+.service-link {
+  display: inline-block;
+  margin-top: 18px;
+  color: #087fec;
+  font-size: 14px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.service-link:hover {
+  color: #005bb5;
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .services-section {
+    padding: 60px 0;
+  }
+
+  .services-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .service-card {
+    padding: 25px;
+  }
+}
+
+
+/* ==========================================
+   GLAD - VISION, MISSION, GOAL & AIMS
+========================================== */
+
+.purpose-section {
+  background: #f1f7ff;
+  padding: 90px 0;
+}
+
+.purpose-introduction {
+  max-width: 800px;
+  margin: 25px auto 45px;
+  text-align: center;
+}
+
+.purpose-introduction h3 {
+  color: #087fec;
+  font-size: 26px;
+  margin-bottom: 15px;
+}
+
+.purpose-introduction p {
+  color: #52657b;
+  line-height: 1.8;
+  margin-inline: auto;
+}
+
+.purpose-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 25px;
+}
+
+.purpose-card {
+  background: #ffffff;
+  border: 1px solid #d4e7fb;
+  border-top: 4px solid #1684e8;
+  border-radius: 12px;
+  padding: 35px;
+  transition: transform 0.3s ease,
+              box-shadow 0.3s ease;
+}
+
+.purpose-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 28px rgba(7, 26, 50, 0.12);
+}
+
+.purpose-card-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 22px;
+}
+
+.purpose-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 62px;
+  height: 62px;
+  background: #e2f3ff;
+  color: #087fec;
+  border-radius: 12px;
+  font-size: 30px;
+}
+
+.purpose-number {
+  color: #60738a;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.purpose-card h3 {
+  color: #071a32;
+  font-size: 25px;
+  margin-bottom: 15px;
+}
+
+.purpose-description {
+  color: #52657b;
+  font-size: 15px;
+  line-height: 1.85;
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  .purpose-section {
+    padding: 60px 0;
+  }
+
+  .purpose-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .purpose-card {
+    padding: 25px;
+  }
+}
+
+
+/* ==========================================
+   GLAD GENERAL TRADING - TEAM DESIGN
+========================================== */
+
+.team-section {
+  background: #f5f9ff;
+  padding: 90px 0;
+}
+
+/* Introduction */
+#team .team-introduction {
+  max-width: 850px;
+  margin: 25px auto 65px;
+  text-align: center;
+}
+
+#team .team-introduction h3 {
+  color: #087fec;
+  font-size: 27px;
+  margin-bottom: 25px;
+}
+
+#team .team-introduction p {
+  color: #52657b;
+  font-size: 16px;
+  line-height: 1.85;
+  margin: 0 auto 18px;
+}
+
+/* Team groups */
+#team .team-group {
+  margin-top: 55px;
+}
+
+#team .team-group-title {
+  color: #071a32;
+  font-size: 29px;
+  margin-bottom: 12px;
+  padding-left: 16px;
+  border-left: 5px solid #1684e8;
+}
+
+#team .team-group-description {
+  color: #52657b;
+  font-size: 15px;
+  margin: 0 0 28px;
+}
+
+/* Co-founders */
+#team .founders-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 30px;
+}
+
+/* Staff */
+#team .staff-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 22px;
+}
+
+/* Individual cards */
+#team .team-card {
+  background: #ffffff;
+  border: 1px solid #d5e7f9;
+  border-radius: 12px;
+  overflow: hidden;
+  min-width: 0;
+  transition: transform 0.25s ease,
+              box-shadow 0.25s ease;
+}
+
+#team .team-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 28px rgba(7, 26, 50, 0.12);
+}
+
+/* Photographs */
+#team .team-photo {
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  overflow: hidden;
+  background: #e2efff;
+}
+
+#team .team-photo img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center top;
+}
+
+#team .founder-card .team-photo {
+  aspect-ratio: 4 / 3;
+}
+
+/* Names, positions and descriptions */
+#team .team-card-content {
+  padding: 22px;
+}
+
+#team .team-name {
+  color: #071a32;
+  font-size: 19px;
+  line-height: 1.3;
+  margin: 0 0 7px;
+}
+
+#team .team-position {
+  color: #087fec;
+  font-size: 14px;
+  font-weight: 700;
+  margin: 0 0 12px;
+}
+
+#team .team-bio {
+  color: #52657b;
+  font-size: 14px;
+  line-height: 1.75;
+  margin: 0;
+}
+
+#team .founder-card .team-name {
+  font-size: 24px;
+}
+
+/* Tablet */
+@media (max-width: 950px) {
+  #team .staff-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+  .team-section {
+    padding: 60px 0;
+  }
+
+  #team .founders-grid,
+  #team .staff-grid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  #team .team-card-content {
+    padding: 18px;
+  }
+
+  #team .team-group-title {
+    font-size: 24px;
+  }
+}
+
+
+/* ==========================================
+   GLAD - CONTRACTORS & BUSINESS PARTNERS
+========================================== */
+
+.contractors-section {
+  background: #ffffff;
+  padding: 90px 0;
+}
+
+/* Section introduction */
+.contractors-introduction {
+  max-width: 850px;
+  margin: 25px auto 50px;
+  text-align: center;
+}
+
+.contractors-introduction h3 {
+  color: #087fec;
+  font-size: 26px;
+  margin-bottom: 20px;
+}
+
+.contractors-introduction p {
+  color: #52657b;
+  font-size: 16px;
+  line-height: 1.8;
+  margin: 0 auto 18px;
+}
+
+/* Contractor cards layout */
+.contractors-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 25px;
+}
+
+/* Individual contractor card */
+.contractor-card {
+  background: #f8fbff;
+  border: 1px solid #d4e7fb;
+  border-radius: 14px;
+  overflow: hidden;
+  min-width: 0;
+  transition: transform 0.3s ease,
+              box-shadow 0.3s ease;
+}
+
+.contractor-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 14px 28px rgba(7, 26, 50, 0.12);
+}
+
+/* Contractor logo area */
+.contractor-logo {
+  background: #ffffff;
+  height: 190px;
+  padding: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 1px solid #e0edfa;
+}
+
+/* Preserve logo proportions */
+.contractor-logo img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+/* Contractor information */
+.contractor-content {
+  padding: 25px;
+}
+
+.contractor-name {
+  color: #071a32;
+  font-size: 23px;
+  margin-bottom: 10px;
+}
+
+.contractor-category {
+  color: #087fec;
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+}
+
+.contractor-description {
+  color: #52657b;
+  font-size: 15px;
+  line-height: 1.8;
+}
+
+/* Tablet */
+@media (max-width: 950px) {
+  .contractors-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+  .contractors-section {
+    padding: 60px 0;
+  }
+
+  .contractors-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .contractor-logo {
+    height: 170px;
+  }
+
+  .contractor-content {
+    padding: 20px;
+  }
+}

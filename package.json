@@ -1,0 +1,19 @@
+{
+  "name": "glad-general-trading",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server/app.js",
+    "dev": "node --watch server/app.js",
+    "setup": "node server/setup.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^13.0.3",
+    "dotenv": "^17.0.0",
+    "express": "^5.1.0",
+    "helmet": "^8.1.0",
+    "multer": "^2.2.0",
+    "nodemailer": "^10.2.1"
+  }
+}

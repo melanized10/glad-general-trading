@@ -1,0 +1,29 @@
+
+# Dependencies
+node_modules/
+
+# Private credentials and environment settings
+.env
+.env.*
+!.env.example
+
+# Local SQLite database
+data/
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.sqlite3
+
+# Uploaded photographs and logos
+public/assets/uploads/
+
+# Private backups
+backups/
+
+# Logs and local files
+*.log
+.DS_Store
+Thumbs.db
